@@ -1,4 +1,4 @@
 # Dynamo
 <picture>
-  <img alt="Dynamo Logo" src="https://raw.githubusercontent.com/Test/FVC004/logo_FVC.png">
+  <img alt="Dynamo Logo" src="https://github.com/thuanfvc004/Test/blob/3ab9f1bff2836c399648893e8fe851b9af826b6c/logo_FVC.PNG">
 </picture>
